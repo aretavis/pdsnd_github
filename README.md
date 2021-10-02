@@ -9,10 +9,9 @@ Use of bicycles in the United States
 The purpose of this project is to show data on the behavior of bicycle use in 3 cities in the United States: Chicago, Washington and New York
 
 ### Files used
-chicago.csv 
-new_york_city.csv 
+chicago.csv
+new_york_city.csv
 washington.csv
 
 ### Credits
 Udacity course programming for data science
-
